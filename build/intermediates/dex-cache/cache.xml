@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\NSCC\y2s1\APPD\Android Assignment Projects\Assignment 1\MobileMathCalculator\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="E:\NSCC\y2s1\APPD\Android Assignment Projects\Assignment 1\MobileMathCalculator\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-7c72e3199fac19c0d73bce9d7503a593bf0e459c.jar" />
+    </item>
+    <item
+        jar="E:\NSCC\y2s1\APPD\Android Assignment Projects\Assignment 1\MobileMathCalculator\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="E:\NSCC\y2s1\APPD\Android Assignment Projects\Assignment 1\MobileMathCalculator\app\build\intermediates\pre-dexed\debug\classes-e8d80b59cea6516681932390c678c8e504db7dab.jar" />
+    </item>
+    <item
+        jar="C:\AANM\Android SDK\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="E:\NSCC\y2s1\APPD\Android Assignment Projects\Assignment 1\MobileMathCalculator\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-fa51aafdbff793d5cac15106e9327f87ea870570.jar" />
+    </item>
+    <item
+        jar="E:\NSCC\y2s1\APPD\Android Assignment Projects\Assignment 1\MobileMathCalculator\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="E:\NSCC\y2s1\APPD\Android Assignment Projects\Assignment 1\MobileMathCalculator\app\build\intermediates\pre-dexed\debug\classes-123b91ce35fd7a1dc0786b2d63b79cd35d6f47e2.jar" />
+    </item>
+
+</items>
